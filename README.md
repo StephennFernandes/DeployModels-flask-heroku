@@ -1,6 +1,5 @@
 
 for more info check [this](https://www.instagram.com/p/CDl9Datg_VU/)
-play with our app [
 
 ### In this project we will be deploying deep learning model to heroku using flask
 
@@ -34,7 +33,3 @@ play with our app [
 ### Fifth step
 
 - Test your web app
-
-
-for more info check [this](https://www.instagram.com/p/CDl9Datg_VU/)
-play with our app [
